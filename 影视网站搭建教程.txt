@@ -2,10 +2,13 @@
 先下载这三个东西。
 ksweb下载:
 https://wwp.lanzoup.com/iN3HC03aug5a  提取码 : e4oe
+(ksweb已知风险:盗号木马。考虑清楚再下载，建议自行百度下载)
 苹果cms10下载:
 https://github.com/magicblack/maccms10
+(苹果cms10已知风险:后门。所谓后门，就是在你不知情的情况下，悄悄在后台盗取你的数据。)
 影视先生模板下载:
 https://kuk.lanzouw.com/iQZ7Gxs0q4b
+(影视先生风险未知)
 
 ﻿第一步:先到四刻影视公众号看"ksweb教程"文章，完成ksweb的部署。
 
